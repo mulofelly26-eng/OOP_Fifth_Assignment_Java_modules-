@@ -6,6 +6,10 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="module" module-name="NationalID-Service" />
+    <orderEntry type="module" module-name="Business-registration-module" />
+    <orderEntry type="module" module-name="Passport-module" />
+    <orderEntry type="module" module-name="Tax-module" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
