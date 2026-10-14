@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/APP_module/APP_module.iml" filepath="$PROJECT_DIR$/APP_module/APP_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Business-registration-module/Business-registration-module.iml" filepath="$PROJECT_DIR$/Business-registration-module/Business-registration-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NationalID-Service/NationalID-Service.iml" filepath="$PROJECT_DIR$/NationalID-Service/NationalID-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP_Fifth_Assignment_Java_modules-.iml" filepath="$PROJECT_DIR$/.idea/OOP_Fifth_Assignment_Java_modules-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Passport-module/Passport-module.iml" filepath="$PROJECT_DIR$/Passport-module/Passport-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tax-module/Tax-module.iml" filepath="$PROJECT_DIR$/Tax-module/Tax-module.iml" />
+    </modules>
+  </component>
+</project>
